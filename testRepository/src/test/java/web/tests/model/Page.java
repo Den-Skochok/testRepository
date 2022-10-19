@@ -1,4 +1,4 @@
-package web.tests;
+package web.tests.model;
 
 public class Page {
 
